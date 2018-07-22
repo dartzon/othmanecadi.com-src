@@ -1,4 +1,4 @@
-baseurl = "https://othmanecadi.com"
+baseurl = "https://othmanecadi.com/"
 languageCode = "en-us"
 Title = "Othmane AIT EL CADI's blog"
 theme = "hugo_theme_pickles"
