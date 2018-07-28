@@ -32,7 +32,7 @@ copyright = "Copyright <a href=\"mailto:dartzon@gmail.com\">Othmane AIT EL CADI<
 
 [[menu.main]]
     name = "About"
-    url = "/about"
+    url = "about"
     weight = 2
 
 # [[menu.main]]
@@ -81,3 +81,7 @@ copyright = "Copyright <a href=\"mailto:dartzon@gmail.com\">Othmane AIT EL CADI<
   name  = "date"
   weight = 10
   pattern = "2017"
+
+# Configuration for BlackFriday markdown parser
+[blackfriday]
+fractions = false
