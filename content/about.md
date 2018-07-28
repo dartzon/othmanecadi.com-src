@@ -16,7 +16,8 @@ makes your eyes bleed).
 
 # Resume
 
-[PDF version](https://drive.google.com/open?id=0B4A41i4YY9DtNnplTEFMaDdvMUU)
+[PDF version](https://drive.google.com/open?id=0B4A41i4YY9DtNnplTEFMaDdvMUU)  
+[HTML version](/resume)
 
 # Contact me
 
