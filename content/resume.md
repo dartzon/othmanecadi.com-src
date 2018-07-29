@@ -1,7 +1,7 @@
 ---
 title: "Resume"
 date: 2018-07-27T01:30:44+01:00
-draft: true
+draft: false
 ---
 
 # **Contact**
