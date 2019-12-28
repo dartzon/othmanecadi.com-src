@@ -5,7 +5,7 @@ draft: false
 ---
 
 Hi there, and welcome to my blog.
-My name is Othmane AIT EL CADI and I am software developer, a Linux enthusiast and a bit of a gamer
+My name is Othmane AIT EL CADI and I am a software developer, a Linux enthusiast and a bit of a gamer
 when my son is sleeping or not crying for attention.
 
 I mainly write C++ code for a living and enjoy using it for my personal projects too. For this

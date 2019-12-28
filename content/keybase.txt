@@ -1,0 +1,72 @@
+==================================================================
+https://keybase.io/dartzon
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://othmanecadi.com
+  * I am dartzon (https://keybase.io/dartzon) on keybase.
+  * I have a public key with fingerprint 7435 7B5F 4601 38F6 DF47  42A5 931F E202 4FE7 970D
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101e4f8d081756f6ff98d4e918d37864e9ccff7ce729dce8f3a2095508641c7200c0a",
+      "fingerprint": "74357b5f460138f6df4742a5931fe2024fe7970d",
+      "host": "keybase.io",
+      "key_id": "931fe2024fe7970d",
+      "kid": "0101e4f8d081756f6ff98d4e918d37864e9ccff7ce729dce8f3a2095508641c7200c0a",
+      "uid": "296b60926d8edb5dd97fd3c18a4e4219",
+      "username": "dartzon"
+    },
+    "service": {
+      "hostname": "othmanecadi.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1577555516,
+  "expire_in": 157680000,
+  "prev": "4784515628e7412c57a8309881d3cb7a6e7d109cef6a40f86a2f51444162a200",
+  "seqno": 6,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtUmlMVFcYHbYOSwFppVidFnlTBSPLe2/eOm1JJC5USkqhQITa8S33Dq84b6Yz
+j5FFIFgxomIBWyIxKlQopkWTjpPYsgRKG0iFSiko4NJCjMGmQWs0JQoMfUP0X3/2
+/rn3nu+c8y356kL9NIE+W471ZN+sqijxGfqT13ykbXynDOGtYgliLEMKwcoF9orA
+oZgKJRExIiiGYoCAjIgyGE1SkIKQZUQCsBgjGmiGUl+CACEtABpnRQEw0MDhKEuS
+qBrDBBpHUQHlkHgESrIZ2G12SVZUW5owkDRPQoJCMQMDKRESNIFzJGvAIMBRnICA
+ZmlUVIUFVodXoRbHcw6QKFlVTP2YVsr7D/7/XHfRih3OUjyFsjglMkDkSVFkaSga
+BIzhCEDgGOslOoBd5ixAZYucXSm1ykh5PKKCTkkA3rl6G3lGsCoFFk4GAidKiYLV
+oqptdqtiFax71WCBotgcRq9YKbF52fsAb3rmY+IlWVQnqSqcwO6Q1CRGTGUKiuQ1
+xkiaJtWDUfEIKLZJdmCS5BWYYlD1ePMAp2pJ0AxB5mEkhTOAJjBcIGmOMaAsw2Bq
+WzzNUYAWMZQVAKQ4AoUMxeGQxAiCwChcHRSKeFv7RLYiRjWVwplVT4dkljmlyA6Q
+8uAaX4O/xidQ89orMf4bZ81bh6hKNPqs69Tz7Qvw9a6eJjho1XOkNj3cQ2z0C99W
+cjRul7VvIqzumpClaz84uLO09mLt1IGIW9N3mtAlfdi6rC8atkTl+kYe/umFunsQ
+ac3Z8L0W5vd9MHV9UzUVHFA2XIHrWytSpGR+YMEnf3WKg0aOGlqwkM0n57/t610i
+m6jXO1qjh7VEXJvlSy1aP5NbPxbyJCswPmZ+1wwcd76HbO/KO3dlcvtlTfPI44u/
+RabpM27oYhPK2aSItJ6erhNjB/O78c7gn6v967IDGkobzyy0X6r9YXzPj3LM8SvH
+N3xOvzUX+iTqTNvE1u9m3BGd/Yv0hy7Xy8ByKGz1U18m2f1GTtVs+oHR8HWuOaAN
+qCrSvXQ3LTOo+O3OdF1bfGfy3SN9t2sfjJHvjqVPzjbXRE3ZvjmbFrsUM9jaOynL
+5mv9q3KGUyMcpf3lk74jS56v78Gbr0Ya7jT3rLU4nQ73eXqp8q9y5dL8nHAb2Tft
+Sf01hXo44graUR+KPB7IzWjydLnLUvV/bOtI+iX7n4ILfy+smfu9xnz99P22pN7K
+IPERu8Mi3NqvxaFns+vj5T1vhgwcnliOy1vYPRYedhmVFwvzuYzgcc9U42JLW/XV
+soQ6UNw9dOHFtSc+3TTYcPV903TMOd1nfEd77O7RhP2u9VG9y+7RR6UnG1rWE8fc
+mcVrBjD9+eqHmUduGJ+i8EHyKRjt1H+lu9+d6Pcv
+=T5e2
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dartzon
+
+==================================================================
